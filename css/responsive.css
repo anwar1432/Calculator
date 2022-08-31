@@ -1,0 +1,20 @@
+@media screen and (max-width: 768px){
+    .calculator{
+        width: 45% !important;
+        
+    }
+    .buttons{
+        height: 38vh !important;
+    }
+}
+@media screen and (max-width: 576px){
+    .calculator{
+        width: 100vw !important;
+    }
+    .buttons{
+        height: 60vh !important;
+    }
+    /* .buttons #clr,.buttons button{
+        width: 33%;
+    } */
+}
